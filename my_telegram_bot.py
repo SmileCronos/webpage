@@ -5,7 +5,7 @@ import os
 TOKEN = '8046134885:AAE948QVWQ4AHO2AgZtZrucgijw1UVZXgyI'
 bot = telebot.TeleBot(TOKEN)
 
-# Файл для збереження ідей
+# Файл для збереження ідей1234
 IDEAS_FILE = 'ideas.txt'
 
 # Команда старту
